@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "379156374941",
+    "firebase_url": "https://fir-chatpractice-ca0bf-default-rtdb.firebaseio.com",
     "project_id": "fir-chatpractice-ca0bf",
     "storage_bucket": "fir-chatpractice-ca0bf.appspot.com"
   },
@@ -12,7 +13,20 @@
           "package_name": "com.example.firebasechat"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "379156374941-so90jpr7ns6tjkqpl4pib9f5bgviq818.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasechat",
+            "certificate_hash": "e6617db0b45c4c831529392f455379ab21ea80b1"
+          }
+        },
+        {
+          "client_id": "379156374941-3a3ekpuarermesn5vnsekt7rssrbgvdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyA5k1Wp2PYJUGMjFPPHCaTHMDzl64EsBTo"
@@ -20,7 +34,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379156374941-3a3ekpuarermesn5vnsekt7rssrbgvdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
